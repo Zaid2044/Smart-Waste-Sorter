@@ -3,8 +3,6 @@
 An AI-powered application that uses computer vision to classify waste in real-time through a webcam. The system identifies objects as either **Recyclable** or **Non-Recyclable** and provides instant visual feedback.
 
 
-*(This is a placeholder GIF. You can create your own using a tool like [ScreenToGif](https://www.screentogif.com/) and replace the link!)*
-
 ---
 
 ## ✨ Features
