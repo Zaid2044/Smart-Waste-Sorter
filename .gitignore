@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model and dataset files
+*.h5
+dataset/
+
+# Environment variables
+.env
